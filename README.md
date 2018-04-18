@@ -1,6 +1,6 @@
 # test-api-lumen
 
-Basic Lumen API Test
+Basic RESTful API Test with Lumen
 
 ## Set-up
 

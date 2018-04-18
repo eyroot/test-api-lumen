@@ -1,8 +1,8 @@
 {
 	"name": "eyroot/test-api-lumen",
-	"description": "Basic Lumen API Test",
+	"description": "Basic RESTful API Test with Lumen",
 	"type": "project",
-	"keywords": ["php", "api", "lumen", "test"],
+	"keywords": ["php", "api", "restful", "lumen", "test"],
 	"license": ["MIT"],
 	"authors": [
 		{
